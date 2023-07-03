@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ranjiniganeshan](https://medium.com/@ranjiniganeshan)
 
-- 💬 Ask me about **tools like Anisible,EKS,AWS,Jenkins,Docker**
+- 💬 Ask me about **tools like Ansible,EKS,AWS,Jenkins,Docker**
 
 - 📫 How to reach me **ranjiniganeshan@gmail.com**
 
