@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjini Ganeshan</h1>
-<h3 align="center">Software Development Engineer with a passion for AWS Cloud. Skilled in Ansible, Jenkins, Docker, Kubernetes, opensearch. Constantly learning and seeking new challenges on AWS Cost Optimization.I write blogs on Medium about the finops with respect to AWS cloud andtechnology, I have delivered sessions at internal meetups on a variety of AWS topics  and I also host technical sessions for Cloudnloud Data/Gen AI/ML Labs India. </h3>
+<h3 align="center">Software Development Engineer with a passion for AWS Cloud. Skilled in Ansible, Jenkins, Docker, Kubernetes, opensearch.Constantly learning and seeking new challenges on AWS Cost Optimization.I write blogs on Medium about the finops with respect to AWS cloud andtechnology, I have delivered sessions at internal meetups on a variety of AWS topics and I also host technical sessions for Cloudnloud Data/Gen AI/ML Labs India. </h3>
 
 - 🔭 I’m currently working on [AWS,Jenkins,Shell Scripts,Terraform,Nesus,Burp](https://www.linkedin.com/posts/ranjinig_amazon-cloudwatch-synthetics-activity-7024430675160178688-UG4V?utm_source=share&utm_medium=member_desktop)
 
