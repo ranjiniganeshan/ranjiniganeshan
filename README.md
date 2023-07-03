@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ranjini Ganeshan</h1>
-<h3 align="center">DevOps Engineer with a passion for Linux. Skilled in Ansible, Jenkins, Docker, Kubernetes, ELK and AWS cloud. Constantly learning and seeking new challenges.</h3>
+<h3 align="center"> Software Development Engineer with a passion for AWS Cloud. Skilled in Ansible, Jenkins, Docker, Kubernetes, opensearch. Constantly learning and seeking new challenges on AWS Cost Optimization .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjiniganeshan&label=Profile%20views&color=0e75b6&style=flat" alt="ranjiniganeshan" /> </p>
 
 - 🔭 I’m currently working on **AWS,Jenkins,Shell Scripts,Terraform,Nesus,Burp**
+- 
 
 - 🌱 I’m currently learning **Cost Optimization in AWS**
 
@@ -15,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ranjiniganeshan](https://medium.com/@ranjiniganeshan)
 
-- 💬 Ask me about **tools like Ansible,EKS,AWS,Jenkins,Docker**
+- 💬 Ask me about **tools like Ansible,EKS,AWS,Jenkins,Docker**.
 
 - 📫 How to reach me **ranjiniganeshan@gmail.com**
 
