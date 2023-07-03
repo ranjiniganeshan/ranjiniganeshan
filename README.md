@@ -35,10 +35,10 @@
 * [Use Session manager instead of having bastion host](https://medium.com/cloudnloud/finops-blog-series-4-eliminate-bastion-host-for-connecting-to-private-ec2-cb24eab079cb)
   - [linkedin post](https://www.linkedin.com/posts/ranjinig_aws-awscommunity-finops-activity-7058152489409277954-VStw?utm_source=share&utm_medium=member_desktop)
 * [VPC Gateway Endpoints for S3](https://medium.com/@ranjiniganeshan/finops-blog-series-5-eliminate-nat-gateway-charges-traffic-to-amazon-simple-storage-service-e49654586c02)
-  -[linkedin post](https://www.linkedin.com/posts/ranjinig_finops-blog-series-5-eliminate-nat-gateway-activity-7061407171695034368-ED7W?utm_source=share&utm_medium=member_desktop)
+  - [linkedin post](https://www.linkedin.com/posts/ranjinig_finops-blog-series-5-eliminate-nat-gateway-activity-7061407171695034368-ED7W?utm_source=share&utm_medium=member_desktop)
 * [Monitoring Resource Creation and usage in AWS Using Cloudtrail and Athena](https://medium.com/cloudnloud/finops-blog-series-6-monitor-your-organization-aws-resource-usage-to-optimize-cost-c045ed28c99f)
-  -[linkedin post](https://www.linkedin.com/posts/ranjinig_finops-opensource-aws-activity-7071096748533809152-ogob?utm_source=share&utm_medium=member_desktop)
+  - [linkedin post](https://www.linkedin.com/posts/ranjinig_finops-opensource-aws-activity-7071096748533809152-ogob?utm_source=share&utm_medium=member_desktop)
 * [Use EKS Cluster with thrid party tool CAST AI for monitoring workloads and optimizing cost](https://www.linkedin.com/posts/ranjinig_aws-job-career-activity-7077952143139209216-fkrH?utm_source=share&utm_medium=member_desktop)
 * [How to use cloudwatch custom metrics for autoscaling](https://medium.com/cloudnloud/finops-blog-series-1-autoscale-using-custom-cloudwatch-metrics-to-reduce-aws-cost-472d880f315b)
-  -[linkedin post] (https://www.linkedin.com/posts/ranjinig_linkedin-activity-7038950955345723392-OWyT?utm_source=share&utm_medium=member_desktop)
+  - [linkedin post] (https://www.linkedin.com/posts/ranjinig_linkedin-activity-7038950955345723392-OWyT?utm_source=share&utm_medium=member_desktop)
 
