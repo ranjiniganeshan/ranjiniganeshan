@@ -25,14 +25,18 @@
 
 
 ## AWS
-* [How to monitor endpoints using Amazon CloudWatch Synthetics](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-synthetics-17e1a0b7bc1f) [linkedin post] (https://www.linkedin.com/posts/ranjinig_amazon-cloudwatch-synthetics-activity-7024430675160178688-UG4V?utm_source=share&utm_medium=member_desktop)
-* [I'm an inline-style link](https://www.google.com)
-* Simplifying and bringing Visibility to AWS Cost using AWS Cost explorer (https://www.linkedin.com/posts/ranjinig_finops-automation-python-activity-7034950365951258624-yZkq?utm_source=share&utm_medium=member_desktop)
-* AWS Storage types and Cost which one to choose (https://medium.com/cloudnloud/finops-blog-series-2-how-to-manage-s3-buckets-efficiently-to-reduce-cost-aee8c2650577) linkedin post (https://www.linkedin.com/posts/ranjinig_linkedin-activity-7042926309009739776-BNVQ?utm_source=share&utm_medium=member_desktop)
-* How cloudfront helps to host static and dynamic content and how it lowers the aws cost.(https://medium.com/cloudnloud/finops-blog-series-3-6cd6fec07fef) linkedin post (https://www.linkedin.com/posts/ranjinig_awscloud-cloudcomputing-finops-activity-7045824822156693505-nZ7I?utm_source=share&utm_medium=member_desktop)
-* Use Session manager instead of having bastion host (bastion hosts having traditionally been used to manage access to instances in private subnets, Session Manager offers an alternative that can provide significant cost savings and other benefits.) linkedin post (https://www.linkedin.com/posts/ranjinig_aws-awscommunity-finops-activity-7058152489409277954-VStw?utm_source=share&utm_medium=member_desktop)
-* VPC Gateway Endpoints for S3 (https://medium.com/@ranjiniganeshan/finops-blog-series-5-eliminate-nat-gateway-charges-traffic-to-amazon-simple-storage-service-e49654586c02)
-* Monitoring Resource Creation and usage in AWS Using Cloudtrail and Athena (https://medium.com/cloudnloud/finops-blog-series-6-monitor-your-organization-aws-resource-usage-to-optimize-cost-c045ed28c99f) linkedin post (https://www.linkedin.com/posts/ranjinig_finops-opensource-aws-activity-7071096748533809152-ogob?utm_source=share&utm_medium=member_desktop)
-* Use EKS Cluster with thrid party tool CAST AI for monitoring workloads and optimizing cost (https://www.linkedin.com/posts/ranjinig_aws-job-career-activity-7077952143139209216-fkrH?utm_source=share&utm_medium=member_desktop)
-* How to use cloudwatch custom metrics for autoscaling (https://medium.com/cloudnloud/finops-blog-series-1-autoscale-using-custom-cloudwatch-metrics-to-reduce-aws-cost-472d880f315b) linkedin post (https://www.linkedin.com/posts/ranjinig_linkedin-activity-7038950955345723392-OWyT?utm_source=share&utm_medium=member_desktop)
+* [How to monitor endpoints using Amazon CloudWatch Synthetics](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-synthetics-17e1a0b7bc1f)
+  [linkedin post](https://www.linkedin.com/posts/ranjinig_amazon-cloudwatch-synthetics-activity-7024430675160178688-UG4V?utm_source=share&utm_medium=member_desktop)
+* [Simplifying and bringing Visibility to AWS Cost using AWS Cost explorer](https://www.linkedin.com/posts/ranjinig_finops-automation-python-activity-7034950365951258624-yZkq?utm_source=share&utm_medium=member_desktop)
+* [AWS Storage types and Cost which one to choose](https://medium.com/cloudnloud/finops-blog-series-2-how-to-manage-s3-buckets-efficiently-to-reduce-cost-aee8c2650577)
+[linkedin post](https://www.linkedin.com/posts/ranjinig_linkedin-activity-7042926309009739776-BNVQ?utm_source=share&utm_medium=member_desktop)
+* [How cloudfront helps to host static and dynamic content and how it lowers the aws cost](https://medium.com/cloudnloud/finops-blog-series-3-6cd6fec07fef) [linkedin post](https://www.linkedin.com/posts/ranjinig_awscloud-cloudcomputing-finops-activity-7045824822156693505-nZ7I?utm_source=share&utm_medium=member_desktop)
+* [Use Session manager instead of having bastion host](bastion hosts having traditionally been used to manage access to instances in private subnets, Session Manager offers an alternative that can provide significant cost savings and other benefits.)
+  [linkedin post](https://www.linkedin.com/posts/ranjinig_aws-awscommunity-finops-activity-7058152489409277954-VStw?utm_source=share&utm_medium=member_desktop)
+* [VPC Gateway Endpoints for S3](https://medium.com/@ranjiniganeshan/finops-blog-series-5-eliminate-nat-gateway-charges-traffic-to-amazon-simple-storage-service-e49654586c02)
+* [Monitoring Resource Creation and usage in AWS Using Cloudtrail and Athena](https://medium.com/cloudnloud/finops-blog-series-6-monitor-your-organization-aws-resource-usage-to-optimize-cost-c045ed28c99f)
+  [linkedin post](https://www.linkedin.com/posts/ranjinig_finops-opensource-aws-activity-7071096748533809152-ogob?utm_source=share&utm_medium=member_desktop)
+* [Use EKS Cluster with thrid party tool CAST AI for monitoring workloads and optimizing cost](https://www.linkedin.com/posts/ranjinig_aws-job-career-activity-7077952143139209216-fkrH?utm_source=share&utm_medium=member_desktop)
+* [How to use cloudwatch custom metrics for autoscaling](https://medium.com/cloudnloud/finops-blog-series-1-autoscale-using-custom-cloudwatch-metrics-to-reduce-aws-cost-472d880f315b)
+  [linkedin post] (https://www.linkedin.com/posts/ranjinig_linkedin-activity-7038950955345723392-OWyT?utm_source=share&utm_medium=member_desktop)
 
