@@ -25,7 +25,7 @@
 
 
 ## AWS
-* [** How to monitor endpoints using Amazon CloudWatch Synthetics **] (https://medium.com/@ranjiniganeshan/amazon-cloudwatch-synthetics-17e1a0b7bc1f) [linkedin post] (https://www.linkedin.com/posts/ranjinig_amazon-cloudwatch-synthetics-activity-7024430675160178688-UG4V?utm_source=share&utm_medium=member_desktop)
+* [How to monitor endpoints using Amazon CloudWatch Synthetics](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-synthetics-17e1a0b7bc1f) [linkedin post] (https://www.linkedin.com/posts/ranjinig_amazon-cloudwatch-synthetics-activity-7024430675160178688-UG4V?utm_source=share&utm_medium=member_desktop)
 * [I'm an inline-style link](https://www.google.com)
 * Simplifying and bringing Visibility to AWS Cost using AWS Cost explorer (https://www.linkedin.com/posts/ranjinig_finops-automation-python-activity-7034950365951258624-yZkq?utm_source=share&utm_medium=member_desktop)
 * AWS Storage types and Cost which one to choose (https://medium.com/cloudnloud/finops-blog-series-2-how-to-manage-s3-buckets-efficiently-to-reduce-cost-aee8c2650577) linkedin post (https://www.linkedin.com/posts/ranjinig_linkedin-activity-7042926309009739776-BNVQ?utm_source=share&utm_medium=member_desktop)
