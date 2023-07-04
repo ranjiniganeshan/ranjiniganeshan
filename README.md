@@ -38,7 +38,8 @@
   - [linkedin post](https://www.linkedin.com/posts/ranjinig_finops-blog-series-5-eliminate-nat-gateway-activity-7061407171695034368-ED7W?utm_source=share&utm_medium=member_desktop)
 * [Monitoring Resource Creation and usage in AWS Using **Cloudtrail and Athena**](https://medium.com/cloudnloud/finops-blog-series-6-monitor-your-organization-aws-resource-usage-to-optimize-cost-c045ed28c99f)
   - [linkedin post](https://www.linkedin.com/posts/ranjinig_finops-opensource-aws-activity-7071096748533809152-ogob?utm_source=share&utm_medium=member_desktop)
-* [Use **EKS Cluster**  with thrid party tool CAST AI for monitoring workloads and optimizing cost](https://www.linkedin.com/posts/ranjinig_aws-job-career-activity-7077952143139209216-fkrH?utm_source=share&utm_medium=member_desktop)
+* [Use **EKS Cluster**](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/96c3a3af-703e-43ac-8f10-643cc85f1410)
+  with thrid party tool CAST AI for monitoring workloads and optimizing cost](https://www.linkedin.com/posts/ranjinig_aws-job-career-activity-7077952143139209216-fkrH?utm_source=share&utm_medium=member_desktop)
 * [How to use **AWS Cloudwatch Custom Metrics** for autoscaling](https://medium.com/cloudnloud/finops-blog-series-1-autoscale-using-custom-cloudwatch-metrics-to-reduce-aws-cost-472d880f315b)
   - [linkedin post](https://www.linkedin.com/posts/ranjinig_linkedin-activity-7038950955345723392-OWyT?utm_source=share&utm_medium=member_desktop)
 * [ **AWS Trust Advisor and AWS Pricing Calulcator** ](https://medium.com/@ranjiniganeshan/aws-trusted-advisor-and-aws-pricing-calculator-46828424b2a8)
@@ -48,7 +49,10 @@
 * [**Hosting Confluence on AWS cloud using terraform**](https://github.com/ranjiniganeshan/confluence-binary)
 
 ## I am a Community Leader and Event Hoster/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
-[![meetup](https://www.meetup.com/cloudnloud-genai-labs/)
+
+[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)
+[![meetup] (https://www.meetup.com/cloudnloud-genai-labs/)
+![meetup](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/2efc6130-a884-46b1-8b65-d6137964b5cd)
 
 ## Images 
 
