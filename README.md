@@ -42,3 +42,6 @@
 * [How to use cloudwatch custom metrics for autoscaling](https://medium.com/cloudnloud/finops-blog-series-1-autoscale-using-custom-cloudwatch-metrics-to-reduce-aws-cost-472d880f315b)
   - [linkedin post](https://www.linkedin.com/posts/ranjinig_linkedin-activity-7038950955345723392-OWyT?utm_source=share&utm_medium=member_desktop)
 
+## I am Leader and event/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
+
+![WhatsApp Image 2023-06-21 at 5 14 56 PM](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/34945d51-29e4-4e8b-84a1-19a69c9e6e0d)
