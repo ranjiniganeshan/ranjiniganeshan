@@ -45,3 +45,17 @@
 ## I am Leader and event/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
 
 ![WhatsApp Image 2023-06-21 at 5 14 56 PM](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/34945d51-29e4-4e8b-84a1-19a69c9e6e0d)
+![1687065393938](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/4507a272-fbc0-4522-838b-e3095ed54993)
+![1686939102489](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/90064af9-6354-4d80-99c3-973221611b22)
+![1680065012511](https:![1686939103298](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/c8604d26-b0f8-42d8-a8b6-6ff28c75c178)
+//github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/334cad36-3917-4e79-a460-c378640aff71)
+
+![1680959785335](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/1e9be88c-4103-4d8f-b020-8b959d9b81c5)![1680959779827](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/75fb0002-e8bf-4076-8a52-ac50544f7a29)
+
+
+![1680364405529](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/1669b5f5-bdee-4bf8-9868-32f75ab43f07)
+
+![1686939102504](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/eed576c1-bb3d-4c3e-a545-d4e300469459)
+![1680065011272](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/d37d91b1-8964-4184-b28e-ad83279271bc)
+
+
