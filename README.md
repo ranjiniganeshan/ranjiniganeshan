@@ -49,8 +49,7 @@
 * [**Hosting Confluence on AWS cloud using terraform**](https://github.com/ranjiniganeshan/confluence-binary)
 
 ## I am a Community Leader and Event Hoster/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
-<a href="https://www.meetup.com/cloudnloud-genai-labs/" rel="meetup">![meetup](![Meetup-logo](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/999601dd-ef82-432e-93b1-2c942faa65b2)
-</a>
+<a href="https://www.meetup.com/cloudnloud-genai-labs/" rel="meetup">![meetup](![Meetup-logo](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/999601dd-ef82-432e-93b1-2c942faa65b2)</a>
 ## Images 
 
 ![WhatsApp Image 2023-06-21 at 5 14 56 PM](https://github.com/ranjiniganeshan/ranjiniganeshan/assets/32661402/34945d51-29e4-4e8b-84a1-19a69c9e6e0d)
