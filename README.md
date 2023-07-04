@@ -44,7 +44,7 @@
 * [ **AWS Trust Advisor and AWS Pricing Calulcator** ](https://medium.com/@ranjiniganeshan/aws-trusted-advisor-and-aws-pricing-calculator-46828424b2a8)
 
 ## Projects
-* [ ** Demonstrating cloudwatch synthetics using facebook login **](https://github.com/ranjiniganeshan/Cloudwatch-synthetics)
+* [**Demonstrating cloudwatch synthetics using facebook login**](https://github.com/ranjiniganeshan/Cloudwatch-synthetics)
 * [**Hosting Confluence on AWS cloud using terraform**](https://github.com/ranjiniganeshan/confluence-binary)
 
 ## I am a Community Leader and Event Hoster/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
