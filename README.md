@@ -47,6 +47,7 @@
 ## Projects
 * [**Demonstrating cloudwatch synthetics using facebook login**](https://github.com/ranjiniganeshan/Cloudwatch-synthetics)
 * [**Hosting Confluence on AWS cloud using terraform**](https://github.com/ranjiniganeshan/confluence-binary)
+* [**EKS Cluster creation and deploying sample app on EKS**](https://github.com/ranjiniganeshan/Learning)
 
 ## I am a Community Leader and Event Hoster/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
 ![Meetup](https://www.meetup.com/cloudnloud-genai-labs/)
