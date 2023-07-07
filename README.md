@@ -50,7 +50,7 @@
 * [**EKS Cluster creation and deploying sample app on EKS**](https://github.com/ranjiniganeshan/Learning)
 * [**Cost Dashboard for the accounts using automation**](https://github.com/BlogMedium/FinopsSeries-Usecase1)
 
-## I am a Community Leader for cloundnloud ( Non-profit techinical organisation) and Event Planner/Presenter/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
+## I am a Community Leader for cloundnloud ( Non-profit technical organisation) and Event Planner/Presenter/Speaker for CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
 * [**Meetup cloudnloud-genai-labs**](https://www.meetup.com/cloudnloud-genai-labs/)
 
 ## Images of Meetup hosted/attended.
