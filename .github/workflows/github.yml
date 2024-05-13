@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
       - name: Pull in medium posts
-        uses: ranjiniganeshan/github@master
+        uses: ranjiniganeshan/github@main
         with:
           feed_list: "https://medium.com/feed/@ranjiniganeshan"
