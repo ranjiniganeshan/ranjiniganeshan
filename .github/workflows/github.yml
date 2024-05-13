@@ -17,4 +17,4 @@ jobs:
       - name: Pull in medium posts
         uses: ranjinoganeshan/blog-post-workflow@v1
         with:
-          feed_list: "medium.com/feed/@ranjiniganeshan"
+          feed_list: "https://medium.com/feed/@ranjiniganeshan"
