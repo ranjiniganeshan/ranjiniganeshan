@@ -1,9 +1,11 @@
 👩🏻‍💻 Senior DevOps Engineer sharing my learning through meetups.\
 👩🏻‍🎓 Studied Computer Science at the vishveshwariah technical university, Bengaluru \
-💭 Currently learning machine learning. \
+💭 Currently learning machine learning.\
 
 
 ![ranjiniganeshan's Stats](https://github-readme-stats.vercel.app/api?username=ranjiniganeshan&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiniganeshan&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
