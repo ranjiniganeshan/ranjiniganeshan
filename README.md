@@ -19,9 +19,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjiniganeshan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ranjiniganeshan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ganesh_ranjini) 
 
-# Latest Blogs
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grafana in the Cloud: AWS Managed Grafana] (https://medium.com/@ranjiniganeshan/grafana-in-the-cloud-aws-managed-grafana-9c530539a448)]
 <!-- BLOG-POST-LIST:END -->
 
 
