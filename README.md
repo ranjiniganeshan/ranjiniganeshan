@@ -2,23 +2,18 @@
 👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.\
 💭 Currently, I am exploring the fascinating world of Machine Learning, combining my DevOps expertise with cutting-edge AI technologies.
 
-📽️ AWS Observability Videos
-I have shared my insights and expertise in observability through a series of videos on the DataOps Channel. Check out the videos below to learn more about leveraging observability tools and techniques:
-
-Explore my hands-on tutorials and real-time use cases for observability, shared on the DataOps Channel. These videos offer practical insights into implementing and advancing your observability practices.
+I have shared my expertise in observability through hands-on tutorials and real-time use cases on the DataOps Channel.
 
 📹 Featured Videos
-Using Synthetics Canaries for Real-Time Monitoring
+1. Using Synthetics Canaries for Real-Time Monitoring\
+Learn how to use synthetics canaries for monitoring and proactive issue detection. This video includes a real-time use case and a hands-on lab.
 
-A hands-on lab showcasing real-time use cases of synthetics canaries for monitoring and proactive issue detection.
 Advanced Synthetics Canaries Use Cases
 
-Delve deeper into synthetics canaries with advanced concepts, real-time use cases, and hands-on demonstrations.
+A deep dive into synthetics canaries, exploring advanced concepts and implementations with real-time scenarios and practical demonstrations.
 Amazon Q: Real-Time Use Case and Hands-On Lab
 
-Explore the capabilities of Amazon Q with a real-world scenario and step-by-step guidance in this hands-on session.
-
-
+Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
