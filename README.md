@@ -4,7 +4,7 @@
 
 I have shared my expertise in observability through hands-on tutorials and real-time use cases on the DataOps Channel.
 
-📹 Featured Videos
+📹 **Featured Videos**
 
 [Using Synthetics Canaries for Real-Time Monitoring](https://www.youtube.com/watch?v=0aGuvg0kxSM&t=266s)
    
@@ -19,11 +19,9 @@ Amazon Q: Real-Time Use Case and Hands-On Lab
 
 Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.
 
-🎤 Meetups
+🎤 **Meetups**
 
 I actively contribute to the tech community by sharing insights and practical knowledge in meetups.
-
-Featured Meetups
 
 [AWS User Group Bengaluru - Observability on AWS](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
 
