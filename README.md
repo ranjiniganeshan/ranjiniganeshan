@@ -13,7 +13,8 @@ Learn how to use synthetics canaries for monitoring and proactive issue detectio
 A deep dive into synthetics canaries, exploring advanced concepts and implementations with real-time scenarios and practical demonstrations.
 Amazon Q: Real-Time Use Case and Hands-On Lab
 
-3. [Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.](https://www.youtube.com/watch?v=LbOojGStIi4&t=805s)
+3. [Amazon Q: Real-Time Use Case and Hands-On Lab](https://www.youtube.com/watch?v=LbOojGStIi4&t=805s)
+   Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.
 
    
 # Blog posts
