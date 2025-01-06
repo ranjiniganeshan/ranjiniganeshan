@@ -19,10 +19,16 @@ Amazon Q: Real-Time Use Case and Hands-On Lab
 
 Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.
 
-   
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🎤 Meetups
+I actively contribute to the tech community by sharing insights and practical knowledge in meetups.
+
+Featured Meetups
+
+[AWS User Group Bengaluru - Observability on AWS](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
+
+ I demonstrated agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
+Showcased insights from DevOps Guru’s ML-powered alerts. 
+
 
 
 
