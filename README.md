@@ -39,10 +39,11 @@ Demonstarted opensearch Anamoly using EKS logs using opensearch.
 
 
 ✍️ **Blog Posts**
+
 I share my experiences, insights, and technical learnings through various blog posts. Below are some of the latest ones
 
-[Grafana in the Cloud: AWS Managed Grafana](https://medium.com/@ranjiniganeshan/grafana-in-the-cloud-aws-managed-grafana-9c530539a448)
-[Amazon Cloudwatch to Detect Anomalies](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-to-detect-anomalies-060f1ecfdb84)
+*[Grafana in the Cloud: AWS Managed Grafana](https://medium.com/@ranjiniganeshan/grafana-in-the-cloud-aws-managed-grafana-9c530539a448)
+*[Amazon Cloudwatch to Detect Anomalies](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-to-detect-anomalies-060f1ecfdb84)
 [Building a Docker image using AWS EC2 Image Builder](https://medium.com/@ranjiniganeshan/building-a-docker-image-using-aws-ec2-image-builder-704e5211e736)
 [How to Save Money on AWS: 10 Simple Steps](https://medium.com/@ranjiniganeshan/how-to-save-money-on-aws-10-simple-steps-85adb740bbf5)
 [Mastering AWS OpenSearch: Terraform Provisioning and Cost Efficiency Series](https://medium.com/@ranjiniganeshan/aws-opensearch-series-69b383dc7a46)
