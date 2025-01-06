@@ -67,7 +67,9 @@ I share my experiences, insights, and technical learnings through various blog p
 [Amazon CloudWatch Synthetics](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-synthetics-17e1a0b7bc1f)
 
 
-## ✨ [Hosted Meetup: Elastic and AWS Meetup in Bengaluru] ✨ (https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
+## 🏠 Hosted Meetup: Elastic and AWS Meetup in Bengaluru ✨
+
+[Hosted Meetup: Elastic and AWS Meetup in Bengaluru] (https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
 
 We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS community! The event was held in **Bengaluru** and was a great success.
 This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
