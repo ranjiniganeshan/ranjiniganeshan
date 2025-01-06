@@ -34,7 +34,7 @@ Anomaly Detection with Elasticsearch for AWS Instances.
 
 I have demonstated Anomaly Detection with Elasticsearch to monitor AWS instances.
 
-[Devops Guru, Cloudwatch anamoly, Opensearch Anamoly][(https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
+[Devops Guru, Cloudwatch anamoly, Opensearch Anamoly](https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
 Demonstarted opensearch Anamoly using EKS logs using opensearch.
 
 
@@ -67,8 +67,13 @@ I share my experiences, insights, and technical learnings through various blog p
 [Amazon CloudWatch Synthetics](https://medium.com/@ranjiniganeshan/amazon-cloudwatch-synthetics-17e1a0b7bc1f)
 
 
+## ✨ [Hosted Meetup: Elastic and AWS Meetup in Bengaluru] ✨ (https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
 
-Hosted AWS and elastic (https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
+We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS community! The event was held in **Bengaluru** and was a great success.
+This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
+
+
+
 
 
 
