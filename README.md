@@ -1,6 +1,6 @@
-👩🏻‍💻 Senior DevOps Engineer sharing my learning through meetups.\
-👩🏻‍🎓 Studied Computer Science at the vishveshwariah technical university, Bengaluru \
-💭 Currently learning machine learning.
+👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.
+👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.
+💭 Currently, I am exploring the fascinating world of Machine Learning, combining my DevOps expertise with cutting-edge AI technologies.
 
 
 ![ranjiniganeshan's Stats](https://github-readme-stats.vercel.app/api?username=ranjiniganeshan&theme=radical&show_icons=true&hide_border=true&count_private=true)
