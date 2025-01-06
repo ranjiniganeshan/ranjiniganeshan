@@ -1,5 +1,5 @@
-👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.
-👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.
+👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.\
+👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.\
 💭 Currently, I am exploring the fascinating world of Machine Learning, combining my DevOps expertise with cutting-edge AI technologies.
 
 
