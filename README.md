@@ -1,5 +1,7 @@
-👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.\
-👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.\
+👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.
+
+👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.
+
 💭 Currently, I am exploring the fascinating world of Machine Learning, combining my DevOps expertise with cutting-edge AI technologies.
 
 I have shared my expertise in observability through hands-on tutorials and real-time use cases on the DataOps Channel.
@@ -69,7 +71,7 @@ I share my experiences, insights, and technical learnings through various blog p
 
 ## 🏠 Hosted Meetup: Elastic and AWS Meetup in Bengaluru ✨
 
- [Hosted Meetup: Elastic and AWS Meetup in Bengaluru] (https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
+ [Hosted Meetup: Elastic and AWS Meetup in Bengaluru](https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
 
 We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS community! The event was held in **Bengaluru** and was a great success.
 This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
