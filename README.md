@@ -20,6 +20,7 @@ Amazon Q: Real-Time Use Case and Hands-On Lab
 Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.
 
 🎤 Meetups
+
 I actively contribute to the tech community by sharing insights and practical knowledge in meetups.
 
 Featured Meetups
