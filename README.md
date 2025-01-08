@@ -28,19 +28,20 @@ I actively contribute to the tech community by sharing insights and practical kn
 
 I Presented in  AWS community Meetup  Novemember 2025 Bengaluru agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
 Showcased insights from DevOps Guru’s ML-powered alerts. 
-[![AWS Observability](assets/linked.PNG)(https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
+[![AWS Observability](assets/linked.PNG)](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
 
-I Presented in Elastic search in October 2025 Anomaly Detection with Elasticsearch for AWS Instances. 
-I have demonstated Anomaly Detection with Elasticsearch to monitor AWS instances.
+I presented in Elasticsearch in October 2025: Anomaly Detection with Elasticsearch for AWS Instances. I demonstrated Anomaly Detection with Elasticsearch to monitor AWS instances.
 
-[![Monitoring AWS instance using Elastic](assets/elastic.PNG).(https://www.linkedin.com/posts/ranjinig_elastic-security-ranjinitechninja-activity-7205596946210713600-EmRd?utm_source=share&utm_medium=member_desktop)
+[![Monitoring AWS instance using Elastic](assets/elastic.PNG)](https://www.linkedin.com/posts/ranjinig_elastic-security-ranjinitechninja-activity-7205596946210713600-EmRd?utm_source=share&utm_medium=member_desktop)
 
-I presented World Devops Summit in July 2024.Demonstarted log Anamoly using AWS opensearch on AWS EKS.
+I presented at the World DevOps Summit in July 2024. Demonstrated log Anomaly using AWS OpenSearch on AWS EKS.
 
-[![Devops Guru, Cloudwatch anamoly, Opensearch Anamoly](assets/devops_summit.PNG)(https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
+[![DevOps Guru, CloudWatch Anomaly, OpenSearch Anomaly](assets/devops_summit.PNG)](https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
 
-I presented about AWS Managed Opensearch in 90 days of devops community.
-[![AWS Managed Opensearch](assets/90days.PNG)(https://www.linkedin.com/posts/ranjinig_90daysofdevops-devops-cloudnative-activity-7144031369852035072-KXqU?utm_source=share&utm_medium=member_desktop))
+I presented about AWS Managed OpenSearch in the 90 Days of DevOps community.
+
+[![AWS Managed OpenSearch](assets/90days.PNG)](https://www.linkedin.com/posts/ranjinig_90daysofdevops-devops-cloudnative-activity-7144031369852035072-KXqU?utm_source=share&utm_medium=member_desktop)
+
 
 
 
