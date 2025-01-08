@@ -28,7 +28,7 @@ I actively contribute to the tech community by sharing insights and practical kn
 
 I Presented in  AWS community Meetup  Novemember 2025 Bengaluru agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
 Showcased insights from DevOps Guru’s ML-powered alerts. 
-[![AWS Observability](assets/linked.PNG)](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
+[![AWS Observability](assets/linked.PNG)(https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
 
 I Presented in Elastic search in October 2025 Anomaly Detection with Elasticsearch for AWS Instances. 
 I have demonstated Anomaly Detection with Elasticsearch to monitor AWS instances.
