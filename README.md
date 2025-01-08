@@ -27,6 +27,7 @@ I actively contribute to the tech community by sharing insights and practical kn
 
 [![AWS Observability Post on LinkedIn](assets/linked.PNG)](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
 
+
  I demonstrated agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
 Showcased insights from DevOps Guru’s ML-powered alerts. 
 
