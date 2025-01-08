@@ -1,10 +1,12 @@
-👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.
+- 👩 Hi, I'm Ranjini Ganeshan, a Senior DevOps Engineer with over 15 years of experience in building, automating, and scaling enterprise-grade infrastructure. I am passionate about sharing my knowledge and experiences through meetups and technical discussions, empowering others in the tech community.
 
-👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.
+- 👩🏻‍🎓 I hold a degree in Computer Science from Vishveshwariah Technical University, Bengaluru.
 
-💭 Currently, I am exploring the fascinating world of Machine Learning, combining my DevOps expertise with cutting-edge AI technologies.
+- I am a Senior DevOps Engineer at Trellix 🛡️, where I work extensively with AWS Cloud ☁️ to drive innovative solutions and optimize cloud infrastructure.
 
-I have shared my expertise in observability through hands-on tutorials and real-time use cases on the DataOps Channel.
+- I also host Elasticsearch Meetups in Bengaluru 📍, connecting with fellow enthusiasts and sharing insights.
+Currently, I'm diving deep into the exciting world of Machine Learning 🤖, blending my DevOps expertise with AI technologies to explore new possibilities.
+I've shared my knowledge of observability 🌐 through hands-on tutorials and real-world use cases on the DataOps Channel 🎥
 
 📹 **Featured Videos**
 
