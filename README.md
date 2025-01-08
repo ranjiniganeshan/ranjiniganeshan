@@ -82,9 +82,8 @@ We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS c
 This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
 
 ## Certifications
-
-- [AWS Certified Solutions Architect - Associate](assets/AWS_Certified.PNG)
-- [Certified kubernetes Administrator](assets/CKS.PNG)
+![AWS Certified Solutions Architect](assets/AWS_Certified.PNG)
+![Certified Kubernetes Administrator](assets/CKS.PNG)
 
 
 
