@@ -37,7 +37,7 @@ I have demonstated Anomaly Detection with Elasticsearch to monitor AWS instances
 
 Demonstarted opensearch Anamoly using EKS logs using opensearch.
 
-[Devops Guru, Cloudwatch anamoly, Opensearch Anamoly](assests/devops_summit.PNG)(https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
+[Devops Guru, Cloudwatch anamoly, Opensearch Anamoly](assets/devops_summit.PNG)(https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
 Demonstarted opensearch Anamoly using EKS logs using opensearch.
 
 
