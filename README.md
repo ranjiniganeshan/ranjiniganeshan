@@ -12,7 +12,7 @@ I have shared my expertise in observability through hands-on tutorials and real-
    
 Learn how to use synthetics canaries for monitoring and proactive issue detection. This video includes a real-time use case and a hands-on lab.
 
-[![Advanced Synthetics Canaries Use Cases](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Advanced Synthetics Canaries Use Cases](https://img.youtube.com/vi/bNgdGGRodZI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bNgdGGRodZI&t=69s)
 
 A deep dive into synthetics canaries, exploring advanced concepts and implementations with real-time scenarios and practical demonstrations.
 Amazon Q: Real-Time Use Case and Hands-On Lab
