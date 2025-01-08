@@ -81,6 +81,11 @@ I share my experiences, insights, and technical learnings through various blog p
 We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS community! The event was held in **Bengaluru** and was a great success.  
 This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
 
+## Certifications
+
+- [AWS Certified Solutions Architect - Associate]()
+- [Certified kubernetes Administrator]()
+
 
 
 
