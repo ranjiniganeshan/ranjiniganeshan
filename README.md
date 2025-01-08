@@ -90,7 +90,7 @@ This meetup was a great opportunity to learn about **Elastic** innovations, best
 
 ## Connect with Me 🔗
 
-Feel free to [connect with me on LinkedIn][https://www.linkedin.com/in/ranjinig/))
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/ranjinig/)
 
 
 
