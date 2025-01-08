@@ -10,16 +10,16 @@ I've shared my knowledge of observability 🌐 through hands-on tutorials and re
 
 📹 **Featured Videos**
 
-1. [![Using Synthetics Canaries for Real-Time Monitoring](https://img.youtube.com/vi/0aGuvg0kxSM/maxresdefault.jpg)](https://www.youtube.com/watch?v=0aGuvg0kxSM&t=266s)
+ [![Using Synthetics Canaries for Real-Time Monitoring](https://img.youtube.com/vi/0aGuvg0kxSM/maxresdefault.jpg)](https://www.youtube.com/watch?v=0aGuvg0kxSM&t=266s)
    
 Learn how to use synthetics canaries for monitoring and proactive issue detection. This video includes a real-time use case and a hands-on lab.
 
-2. [![Advanced Synthetics Canaries Use Cases](https://img.youtube.com/vi/bNgdGGRodZI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bNgdGGRodZI&t=69s)
+ [![Advanced Synthetics Canaries Use Cases](https://img.youtube.com/vi/bNgdGGRodZI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bNgdGGRodZI&t=69s)
 
 A deep dive into synthetics canaries, exploring advanced concepts and implementations with real-time scenarios and practical demonstrations.
 Amazon Q: Real-Time Use Case and Hands-On Lab
 
-3. [![Amazon Q: Real-Time Use Case and Hands-On Lab](https://img.youtube.com/vi/LbOojGStIi4/maxresdefault.jpg)](https://www.youtube.com/watch?v=LbOojGStIi4&t=805s)
+ [![Amazon Q: Real-Time Use Case and Hands-On Lab](https://img.youtube.com/vi/LbOojGStIi4/maxresdefault.jpg)](https://www.youtube.com/watch?v=LbOojGStIi4&t=805s)
 
 Explore Amazon Q with a real-world scenario and step-by-step guidance in this detailed hands-on session.
 
@@ -28,19 +28,19 @@ Explore Amazon Q with a real-world scenario and step-by-step guidance in this de
 I actively contribute to the tech community by sharing insights and practical knowledge in meetups.
 
 
-4. I Presented in  AWS community Meetup  Novemember 2025 Bengaluru agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
+-  I Presented in  AWS community Meetup  Novemember 2025 Bengaluru agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
 Showcased insights from DevOps Guru’s ML-powered alerts. 
 [![AWS Observability](assets/linked.PNG)](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
 
-5. I presented in Elasticsearch in October 2025: Anomaly Detection with Elasticsearch for AWS Instances. I demonstrated Anomaly Detection with Elasticsearch to monitor AWS instances.
+-  I presented in Elasticsearch in October 2025: Anomaly Detection with Elasticsearch for AWS Instances. I demonstrated Anomaly Detection with Elasticsearch to monitor AWS instances.
 
 [![Monitoring AWS instance using Elastic](assets/elastic.PNG)](https://www.linkedin.com/posts/ranjinig_elastic-security-ranjinitechninja-activity-7205596946210713600-EmRd?utm_source=share&utm_medium=member_desktop)
 
-6. I presented at the World DevOps Summit in July 2024. Demonstrated log Anomaly using AWS OpenSearch on AWS EKS.
+- I presented at the World DevOps Summit in July 2024. Demonstrated log Anomaly using AWS OpenSearch on AWS EKS.
 
 [![DevOps Guru, CloudWatch Anomaly, OpenSearch Anomaly](assets/devops_summit.PNG)](https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
 
-7. I presented about AWS Managed OpenSearch in the 90 Days of DevOps community.
+-  I presented about AWS Managed OpenSearch in the 90 Days of DevOps community.
 
 [![AWS Managed OpenSearch](assets/90days.PNG)](https://www.linkedin.com/posts/ranjinig_90daysofdevops-devops-cloudnative-activity-7144031369852035072-KXqU?utm_source=share&utm_medium=member_desktop)
 
