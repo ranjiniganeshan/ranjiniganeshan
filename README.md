@@ -85,7 +85,7 @@ This meetup was a great opportunity to learn about **Elastic** innovations, best
 
 
 <img src="assets/AWS_Certified.PNG" width="150" height="auto" />
-<img src="assets/CKA.PNG" width="150" height="auto" />
+<img src="assets/CKAA.PNG" width="150" height="auto" />
 
 
 
