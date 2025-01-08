@@ -25,7 +25,7 @@ Explore Amazon Q with a real-world scenario and step-by-step guidance in this de
 
 I actively contribute to the tech community by sharing insights and practical knowledge in meetups.
 
-[![AWS Observability Post on LinkedIn](assets/linkedin-thumbnail.png)](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
+[![AWS Observability Post on LinkedIn](assets/linked.png)](https://www.linkedin.com/posts/ranjinig_aws-aws-observability-activity-7260232005198438401-jip5?utm_source=share&utm_medium=member_desktop)
 
  I demonstrated agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
 Showcased insights from DevOps Guru’s ML-powered alerts. 
