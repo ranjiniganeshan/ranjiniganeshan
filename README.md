@@ -33,6 +33,7 @@ Showcased insights from DevOps Guru’s ML-powered alerts.
 
 [Monitoring AWS instance using Elastic](https://www.linkedin.com/posts/ranjinig_elastic-security-ranjinitechninja-activity-7205596946210713600-EmRd?utm_source=share&utm_medium=member_desktop)
 
+
 Anomaly Detection with Elasticsearch for AWS Instances. 
 
 I have demonstated Anomaly Detection with Elasticsearch to monitor AWS instances.
