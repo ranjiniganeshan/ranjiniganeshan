@@ -40,7 +40,7 @@ I presented World Devops Summit in July 2024.Demonstarted log Anamoly using AWS 
 [![Devops Guru, Cloudwatch anamoly, Opensearch Anamoly](assets/devops_summit.PNG)(https://www.linkedin.com/posts/1point21gws_stayaheadwith121gws-devops-devsecops-activity-7202282354562785280-llup?utm_source=share&utm_medium=member_desktop)
 
 I presented about AWS Managed Opensearch in 90 days of devops community.
-[![AWS Managed Opensearch](assets/90days.PNG)](https://www.linkedin.com/posts/ranjinig_90daysofdevops-devops-cloudnative-activity-7144031369852035072-KXqU?utm_source=share&utm_medium=member_desktop))
+[![AWS Managed Opensearch](assets/90days.PNG)(https://www.linkedin.com/posts/ranjinig_90daysofdevops-devops-cloudnative-activity-7144031369852035072-KXqU?utm_source=share&utm_medium=member_desktop))
 
 
 
@@ -75,7 +75,7 @@ I share my experiences, insights, and technical learnings through various blog p
 
 ## 🏠 Hosted Meetup: Elastic and AWS Meetup in Bengaluru ✨
 
- [![Hosted Meetup: Elastic and AWS Meetup in Bengaluru (assets/Hosted.PNG)](https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
+ [![Hosted Meetup: Elastic and AWS Meetup in Bengaluru](assets/Hosted.PNG)(https://www.linkedin.com/posts/ranjinig_elastic-aws-ug-bengaluru-september-meetup-activity-7234215314316517376-dQxx?utm_source=share&utm_medium=member_desktop)
 
 We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS community! The event was held in **Bengaluru** and was a great success.
 This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
