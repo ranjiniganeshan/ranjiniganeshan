@@ -31,7 +31,7 @@ I actively contribute to the tech community by sharing insights and practical kn
  I demonstrated agentless observability using a scraper with AWS Managed Grafana and AWS Managed Prometheus.
 Showcased insights from DevOps Guru’s ML-powered alerts. 
 
-[Monitoring AWS instance using Elastic](https://www.linkedin.com/posts/ranjinig_elastic-security-ranjinitechninja-activity-7205596946210713600-EmRd?utm_source=share&utm_medium=member_desktop)
+[![Monitoring AWS instance using Elastic](assets/elstic.PNG)(https://www.linkedin.com/posts/ranjinig_elastic-security-ranjinitechninja-activity-7205596946210713600-EmRd?utm_source=share&utm_medium=member_desktop)
 
 
 Anomaly Detection with Elasticsearch for AWS Instances. 
