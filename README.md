@@ -83,8 +83,8 @@ This meetup was a great opportunity to learn about **Elastic** innovations, best
 
 ## Certifications
 
-- [AWS Certified Solutions Architect - Associate]()
-- [Certified kubernetes Administrator]()
+- [AWS Certified Solutions Architect - Associate](assets/AWS_Certified.PNG)
+- [Certified kubernetes Administrator](assets/CKS.PNG)
 
 
 
