@@ -81,13 +81,16 @@ I share my experiences, insights, and technical learnings through various blog p
 We hosted an exciting **Elastic and AWS Meetup** in collaboration with the AWS community! The event was held in **Bengaluru** and was a great success.  
 This meetup was a great opportunity to learn about **Elastic** innovations, best practices, and **AWS integration**.
 
-## Certifications ##
+## Certifications 🎓
 
 
 <img src="assets/AWS_Certified.PNG" width="150" height="auto" />
 <img src="assets/CKAA.PNG" width="150" height="auto" />
 
 
+## Connect with Me 🔗
+
+Feel free to [connect with me on LinkedIn][https://www.linkedin.com/in/ranjinig/))
 
 
 
